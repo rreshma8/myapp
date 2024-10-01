@@ -5,7 +5,9 @@ function App() {
     <div className="App">
 
       <h1>Reshma</h1>
-      <h2>Hello</h2>
+      <h2>counter
+        
+      </h2>
     </div>
   );
 }
